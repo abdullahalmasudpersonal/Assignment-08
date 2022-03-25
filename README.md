@@ -3,9 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+## Available Scripts
+
 The Website live-link [The Website live-link](https://aesthetic-melomakarona-b9652b.netlify.app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
