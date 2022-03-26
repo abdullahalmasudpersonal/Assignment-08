@@ -1,0 +1,86 @@
+[
+    {
+        "id": "124njjge13b9",
+        "name": "Processor ",
+        "price": 3200,
+        "image": "https://fdn.gsmarena.com/imgroot/news/21/10/intel-12th-gen/-1200/gsmarena_001.jpg",
+        "stock": 20
+    },
+    {
+        "id": "124e12ff13b9",
+        "name": "Motherbord",
+        "price": 11200,
+        "image": "https://ae01.alicdn.com/kf/H908cb505205242c6b0ee44c973634753H/new-motherboard-for-ROG-CROSSHAIR-VIII-HERO-WI-FI-Socket-AM4-DDR4-32GB-USB2-0-USB3.jpg_Q90.jpg_.webp",
+        "stock": 10
+    },
+    {
+        "id": "124e4fsd213b9",
+        "name": "Ram",
+        "price": 3150,
+        "image": "https://www.newegg.com/insider/wp-content/uploads/2020/02/Tocata-RAM-2.jpg",
+        "stock": 15
+    },
+    {
+        "id": "124e14fs243b9",
+        "name": "Cooling-fan",
+        "price": 300,
+        "image": "https://i5.walmartimages.com/asr/49e9ebd5-0adf-4d67-9282-0b1a23c013b3.c944e9bbb6677ca7eec7dc29568301c0.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "stock": 19
+    },
+    {
+        "id": "124e15f453b9",
+        "name": "SDD ",
+        "price": 4300,
+        "image": "https://hetmanrecovery.com/pic/blog/a134/sata-ssd.webp",
+        "stock": 23
+    },
+    {
+        "id": "124efd78513b9",
+        "name": "HDD ",
+        "price": 2700,
+        "image": "https://5.imimg.com/data5/CI/KY/ER/SELLER-13508457/computer-hard-disk-500x500.jpeg",
+        "stock": 9
+    },
+    {
+        "id": "124egsffd13b9",
+        "name": "Mouse ",
+        "price": 500,
+        "image": "https://media.kingston.com/hyperx/category/hx-family-mouse-pulsefire-surge-md.jpg",
+        "stock": 13
+    },
+    {
+        "id": "124e1fghf3b9",
+        "name": "Keybord ",
+        "price": 1150,
+        "image": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge_wm_brw/public/field/image/2020/03/fnatic-ministreak-keyboard-rgbs.jpg",
+        "stock": 17
+    },
+    {
+        "id": "124e1ghdf3b9",
+        "name": "Monitor  ",
+        "price": 12500,
+        "image": "https://www.lifewire.com/thmb/Askb8mjJjMdATzUny58aUDVeGTo=/650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-49-inch-gaming-monitor-5b7b282dc9e77c005099f09a.png",
+        "stock": 29
+    },
+    {
+        "id": "124e558213b9",
+        "name": "DVD-Driver ",
+        "price": 1350,
+        "image": "https://www.cleverfiles.com/howto/wp-content/uploads/2018/04/optical-drive.jpg",
+        "stock": 7
+    },
+    {
+        "id": "124e1uytr3b9",
+        "name": "Graphics-card ",
+        "price": 8200,
+        "image": "https://uidesign.gbtcdn.com/gb_blog/2741/Colorful-GeForce-iGame-GTX-1060-Vulcan-U-6G-Graphics-Card.JPG",
+        "stock": 25
+    },
+    {
+        "id": "124e136u45b9",
+        "name": "PC-Casing ",
+        "price": 3500,
+        "image": "https://i5.walmartimages.com/asr/97fd50d3-ae27-4d3c-8c5a-200dfa16ccf7_1.31882d7dfc14a78872bd08cbbc46b65f.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "stock": 16
+    }
+]
