@@ -40,7 +40,7 @@
     justify-content: center;
 }
 .btn-cart .btn-text{
-    margin: 8px;
+    margin: 10px;
 }
 .btn-cart:hover{
     background: rgba(148, 33, 255, 0.658);
