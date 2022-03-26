@@ -2,7 +2,7 @@
 .prodcut{
     width: 300px;
     height: 510px;
-    border: 1px solid gray;
+    border: 1px solid rgb(165, 99, 99);
     border-radius: 8px;
     background-color: rgba(227, 193, 248, 0.705);
     position: relative;
