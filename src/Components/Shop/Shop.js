@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Shop.css'
 
@@ -29,6 +30,7 @@ const Shop = () => {
             </div>
             <div className='cart-container'>
                 <h3>Selected your product</h3>
+                <Cart></Cart>
             </div>
         </div>
     );
