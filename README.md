@@ -1,15 +1,9 @@
-# The Website live-link
+## Project name 
+# Computer Accessories Seller
+
+## The Website live-link
 
 The Website live-link [The Website live-link](https://aesthetic-melomakarona-b9652b.netlify.app).
-
-
-
-
-
-
-
-
-
 
 In the project directory, you can run:
 
