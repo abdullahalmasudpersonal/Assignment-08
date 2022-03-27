@@ -1,14 +1,15 @@
 import React from 'react';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import '../../../node_modules/bootstrap/dist/js/bootstrap.min'
+import '../../../node_modules/bootstrap/dist/js/bootstrap.min';
+import './Questions.css'
 
 const Questions = () => {
     return (
-        <div className='container mt-4'>
-            <div class="accordion" id="accordionPanelsStayOpenExample">
-                <div class="accordion-item">
+        <div className='container mt-4 '>
+            <div class="accordion  " id="accordionPanelsStayOpenExample">
+                <div class="accordion-item question">
                     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        <button class="accordion-button question" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
                             How react works ?
                         </button>
                     </h2>
@@ -29,9 +30,9 @@ const Questions = () => {
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
+                <div class="accordion-item question">
                     <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                        <button class="accordion-button collapsed question" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
                             What is the difference between state and props ?
                         </button>
                     </h2>
@@ -103,9 +104,9 @@ const Questions = () => {
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
+                <div class="accordion-item question">
                     <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                        <button class="accordion-button collapsed question" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
                             how usestate works ?
                         </button>
                     </h2>

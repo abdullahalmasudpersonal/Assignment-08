@@ -8,8 +8,8 @@
 }
 .cart-btn{
     margin: 5px;
-    background: rgb(167, 112, 112);
-    border: none;
+    background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
+    border: 2px solid rgba(197, 52, 255, 0.473);
     border-radius: 4px;
     padding: 8px;
 
