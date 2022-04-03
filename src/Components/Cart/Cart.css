@@ -3,14 +3,81 @@
     top: 0;
     padding: 30px 20px;
 }
-.div-cart-btn{
-    
-}
 .cart-btn{
     margin: 5px;
     background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
     border: 2px solid rgba(197, 52, 255, 0.473);
     border-radius: 4px;
     padding: 8px;
+}
 
+@media screen and (max-width:480px) and (min-width: 320px){
+    .cart{
+        position: sticky;
+        top: 0;
+        padding: 20px 20px;
+    }
+    .cart-btn{
+        margin: 5px;
+        background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
+        border: 2px solid rgba(197, 52, 255, 0.473);
+        border-radius: 4px;
+        padding: 8px;
+    }
+} 
+@media screen and (max-width:768px) and (min-width: 481px){
+    .cart{
+        position: sticky;
+        top: 0;
+        padding: 30px 20px;
+    }
+    .cart-btn{
+        margin: 5px;
+        background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
+        border: 2px solid rgba(197, 52, 255, 0.473);
+        border-radius: 4px;
+        padding: 8px;
+    }
+}
+@media screen and (max-width:1024px) and (min-width: 769px){
+    .cart{
+        position: sticky;
+        top: 0;
+        padding: 30px 20px;
+    }
+    .cart-btn{
+        margin: 5px;
+        background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
+        border: 2px solid rgba(197, 52, 255, 0.473);
+        border-radius: 4px;
+        padding: 8px;
+    }
+}
+@media screen and (max-width:1200px) and (min-width: 1025px){
+    .cart{
+        position: sticky;
+        top: 0;
+        padding: 30px 20px;
+    }
+    .cart-btn{
+        margin: 5px;
+        background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
+        border: 2px solid rgba(197, 52, 255, 0.473);
+        border-radius: 4px;
+        padding: 8px;
+    }
+}
+@media screen and (min-width: 1201px){
+    .cart{
+        position: sticky;
+        top: 0;
+        padding: 30px 20px;
+    }
+    .cart-btn{
+        margin: 5px;
+        background-image: linear-gradient(rgba(155, 92, 255, 0.774), rgba(196, 72, 245, 0.87));
+        border: 2px solid rgba(197, 52, 255, 0.473);
+        border-radius: 4px;
+        padding: 8px;
+    }
 }
